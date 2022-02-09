@@ -12,11 +12,11 @@
 
 
 ## Demo
-Link: [https://flight-price-by-sujan.herokuapp.com/](https://house-price-prediction557.herokuapp.com/)
+Link: [https://flight-price-by-sujan.herokuapp.com/](https://flight-price-by-sujan.herokuapp.com/)
 
-[![](https://i.imgur.com/lxDuooU.png)](https://house-price-prediction557.herokuapp.com/)
+[![](https://i.imgur.com/lxDuooU.png)](https://flight-price-by-sujan.herokuapp.com/)
 
-[![](https://i.imgur.com/XC0BNut.png)](https://house-price-prediction557.herokuapp.com/)
+[![](https://i.imgur.com/XC0BNut.png)](https://flight-price-by-sujan.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -59,7 +59,8 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 
 
-#Docker-container
+##Docker-container
+
 
 ### Create a file "Dockerfile" with below content
 
