@@ -22,7 +22,7 @@ def home():
 def predict():
     if request.method == "POST":
 
-        # Date_of_Journey
+        # Date_of_
         date_dep = request.form["Dep_Time"]
         Journey_day = int(pd.to_datetime(date_dep, format="%Y-%m-%dT%H:%M").day)
         Journey_month = int(pd.to_datetime(date_dep, format ="%Y-%m-%dT%H:%M").month)
