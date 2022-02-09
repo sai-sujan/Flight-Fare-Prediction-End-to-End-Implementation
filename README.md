@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Flight Fare Prediction End to End 
 
 ## Table of Content
   * [Demo](#demo)
@@ -59,7 +59,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 
 
-##Docker-container
+#Docker-container
 
 ### Create a file "Dockerfile" with below content
 
