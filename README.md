@@ -14,9 +14,9 @@
 ## Demo
 Link: [https://flight-price-by-sujan.herokuapp.com/](https://house-price-prediction557.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://house-price-prediction557.herokuapp.com/)
+[![](https://i.imgur.com/lxDuooU.png)](https://house-price-prediction557.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://house-price-prediction557.herokuapp.com/)
+[![](https://i.imgur.com/sixEGlZ.png)](https://house-price-prediction557.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -69,12 +69,12 @@ COPY . /app
 WORKDIR /app
 RUN pip install -r requirements.txt
 ENTRYPOINT [ "python" ]
-CMD [ "main.py" ]
+CMD [ "app.py" ]
 ```
 
 ### Create a "Procfile" with following content
 ```
-web: gunicorn main:app
+web: gunicorn app:app
 ```
 
 ### create a file ".circleci\config.yml" with following content
