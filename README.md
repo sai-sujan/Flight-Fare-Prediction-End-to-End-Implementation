@@ -16,7 +16,7 @@ Link: [https://flight-price-by-sujan.herokuapp.com/](https://house-price-predict
 
 [![](https://i.imgur.com/lxDuooU.png)](https://house-price-prediction557.herokuapp.com/)
 
-[![](https://i.imgur.com/sixEGlZ.png)](https://house-price-prediction557.herokuapp.com/)
+[![](https://i.imgur.com/XC0BNut.png)](https://house-price-prediction557.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
