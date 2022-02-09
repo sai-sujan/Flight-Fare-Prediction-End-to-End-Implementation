@@ -35,7 +35,7 @@ dash-core-components==2.0.0
 dash-daq==0.5.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-dask==2.30.0
+dask
 dataprep
 decorator==4.4.2
 deepface==0.0.49
