@@ -48,6 +48,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── app.py
 ├── flight_price.ipynb
 ├── flight_rf.pkl
+├── Dockerfile
 ├── requirements.txt
 ```
 
