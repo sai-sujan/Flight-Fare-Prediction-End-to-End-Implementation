@@ -24,3 +24,4 @@ typing_extensions==4.0.1
 virtualenv==20.0.7
 Werkzeug==2.0.3
 zipp==3.7.0
+pytest==6.2.1
